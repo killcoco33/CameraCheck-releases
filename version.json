@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.4/CameraCheck.exe",
-    "changelog":  "修复启动自动更新：发现新版本后直接弹窗提示安装；增强更新安装脚本，替换失败会重试并记录 update.log；修复 baypass 误报：必须有 XCD AVM AVG FPS \u003e29、ADD/Deser reg_addr=1d bit3、12~15 号相机异常三个条件。",
-    "sha256":  "D3130E0A528625F10EDD30C379E10AF1842245AFBB1ADD5794025A18AAD367AE",
-    "version":  "1.0.4"
+    "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.5/CameraCheck.exe",
+    "changelog": "修复诊断输出去重：ICP BAD INPUT STREAM 仅作为组合判断证据，不再单独输出诊断；已有 camera error 时不再重复输出 Frame timeout；保持 baypass 链路和线束故障判断规则。",
+    "sha256": "7E8418844203CBA2BCE023A71CAA60DE1047050EEA040386C5A12644D833666F",
+    "version": "1.0.5"
 }
