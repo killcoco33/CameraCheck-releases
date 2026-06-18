@@ -1,5 +1,6 @@
-﻿{
-  "version": "1.0.4",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.4/CameraCheck.exe",
-  "changelog": "修复 baypass链路故障误报：无 XCD logcat / 无 AVM AVG FPS >29 证据时不再判定 baypass链路故障"
+{
+    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.4/CameraCheck.exe",
+    "changelog":  "修复启动自动更新：发现新版本后直接弹窗提示安装；增强更新安装脚本，替换失败会重试并记录 update.log；修复 baypass 误报：必须有 XCD AVM AVG FPS \u003e29、ADD/Deser reg_addr=1d bit3、12~15 号相机异常三个条件。",
+    "sha256":  "D3130E0A528625F10EDD30C379E10AF1842245AFBB1ADD5794025A18AAD367AE",
+    "version":  "1.0.4"
 }
