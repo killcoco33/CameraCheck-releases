@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.10",
-    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.10/CameraCheck.exe",
-    "sha256":  "9972910E7C474FD5D082BD3540F00ECFE7ED6404A8C86735C77CA629CE28D4C1",
-    "changelog":  "修复更新后 python314.dll 加载失败：完整包固定解压到程序目录 _CameraCheckRuntime，不再依赖系统 Temp/_MEI；继续使用两段式自动更新。"
+    "version":  "1.0.11",
+    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.11/CameraCheck.exe",
+    "sha256":  "64F24285F03D20529028AB79170741476C0C35F12FFA9FD01EAAF2342F5DA0B3",
+    "changelog":  "彻底修复 python314.dll/_MEI 启动失败：外层 CameraCheck.exe 改为原生启动器，真实程序运行在 CameraCheck_app 目录版，不再依赖 PyInstaller onefile 临时解压。"
 }
