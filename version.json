@@ -1,6 +1,6 @@
 {
-    "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.5/CameraCheck.exe",
-    "changelog": "修复诊断输出去重：ICP BAD INPUT STREAM 仅作为组合判断证据，不再单独输出诊断；已有 camera error 时不再重复输出 Frame timeout；优化单文件包体积，提升下载稳定性。",
-    "sha256": "9D73B3928100F1276E89463F42FB9316887F44D38FE35F085F010FB7758D926B",
-    "version": "1.0.5"
+    "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.6/CameraCheck.exe",
+    "changelog": "修复诊断输出去重：ICP BAD INPUT STREAM 仅作为组合判断证据，不再单独输出诊断；已有 camera error 时不再重复输出 Frame timeout；优化自动更新下载包，提升下载稳定性。",
+    "sha256": "275A974B423ADE4069308F8330DDBA03BB02F1D24A5190268B16EDC48C0B1048",
+    "version": "1.0.6"
 }
