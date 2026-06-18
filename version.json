@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/6eef8543fafd57d1ce86bd72e35f792959853fff/CameraCheck.exe",
-    "changelog":  "修复自动更新下载失败：旧版先下载原生更新引导器，再由引导器下载完整稳定版，避开 GitHub Release 跳转、raw 主分支缓存和旧版下载超时问题。",
-    "sha256":  "408EBDCC0FF67C7EF50E8B7983C1CBFBAB843FEA82C6043F224333031BA09C5E",
-    "version":  "1.0.9"
+    "version":  "1.0.10",
+    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.10/CameraCheck.exe",
+    "sha256":  "9972910E7C474FD5D082BD3540F00ECFE7ED6404A8C86735C77CA629CE28D4C1",
+    "changelog":  "修复更新后 python314.dll 加载失败：完整包固定解压到程序目录 _CameraCheckRuntime，不再依赖系统 Temp/_MEI；继续使用两段式自动更新。"
 }
