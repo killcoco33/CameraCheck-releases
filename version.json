@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.15/CameraCheck.exe",
-  "sha256": "A86523FFF9E2D67BD4F82ED0C079859BCB4916FE34C00495FB2ABF18DC126889",
-  "changelog": "修复camera error兜底诊断说明：涉及0~3号相机时补充“0~3号相机是双目无流问题”注释；更新版本检查入口避免raw/main缓存。",
-  "metadata_refreshed_at": "2026-06-24T16:22:00+08:00"
+  "version": "1.0.16",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.16/CameraCheck.exe",
+  "sha256": "36703EF5F7FF2C8B7E9E0A3981F865EE8490B16C80EFC60B5EF89D08FAE9B2C4",
+  "changelog": "修复camera error兜底诊断说明：涉及0~3号相机时补充“0~3号相机是双目无流问题”注释；更新检查改为优先读取最新发布，避免raw缓存导致更新检查滞后。",
+  "metadata_refreshed_at": "2026-06-24T16:35:00+08:00"
 }
