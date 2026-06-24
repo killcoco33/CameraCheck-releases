@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.11",
-    "download_url":  "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.11/CameraCheck.exe",
-    "sha256":  "64F24285F03D20529028AB79170741476C0C35F12FFA9FD01EAAF2342F5DA0B3",
-    "changelog":  "彻底修复 python314.dll/_MEI 启动失败：外层 CameraCheck.exe 改为原生启动器，真实程序运行在 CameraCheck_app 目录版，不再依赖 PyInstaller onefile 临时解压。"
+  "version": "1.0.12",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.12/CameraCheck.exe",
+  "sha256": "7E184421C10C9EAC41020EF487ADF650E74AE2D1E13D2049B961AFC1A413174C",
+  "changelog": "修复overflow组合诊断重复输出；camera error兜底诊断补全故障相机编号；补充Internal Abnormality/Over Temp内部故障识别。"
 }
