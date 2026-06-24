@@ -3,5 +3,5 @@
   "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.14/CameraCheck.exe",
   "sha256": "AEEE2A2FD8D6732B6CDDDB56B0276D926A6DACB2BC2F1ECBB60B63CE360D0620",
   "changelog": "修复camera error兜底诊断说明：涉及0~3号相机时补充“0~3号相机是双目无流问题”注释。",
-  "metadata_refreshed_at": "2026-06-24T16:08:00+08:00"
+  "metadata_refreshed_at": "2026-06-24T16:15:00+08:00"
 }
