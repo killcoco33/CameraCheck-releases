@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.18",
-  "sha256": "69E186E2082F0EA93B549DB5C001C376C7E9FDA6C174CE3BBB4DC0A1245EFDB3",
-  "changelog": "修复启动失败：恢复稳定打包方案，将运行时解压目录固定到程序旁的_CameraCheckRuntime，避免%TEMP%/_MEI目录下Python DLL加载失败。",
-  "metadata_refreshed_at": "2026-06-25T14:45:00+08:00"
+  "version": "1.0.19",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.19",
+  "sha256": "848DA8E002C8974C0EB356BC621ACCDE188688B2E0D1D9BC9D91DEE1414C9F3B",
+  "changelog": "修复Python DLL加载失败：发布包改为原生启动器+onedir应用目录，主程序不再使用PyInstaller onefile临时解压，彻底避开%TEMP%/_MEI启动失败。",
+  "metadata_refreshed_at": "2026-06-25T15:20:00+08:00"
 }
