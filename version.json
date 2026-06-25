@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.17",
-  "sha256": "0F65FB8BCD34361BF31D35C692E50A398FFBCFD6B9B67073C04472F440A648B2",
-  "changelog": "修复更新下载失败：下载地址改为raw直链，避开GitHub Release资产跳转；新版下载器增加raw与Release双通道兜底，并在失败时显示具体原因。",
-  "metadata_refreshed_at": "2026-06-25T14:10:00+08:00"
+  "version": "1.0.18",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.18",
+  "sha256": "69E186E2082F0EA93B549DB5C001C376C7E9FDA6C174CE3BBB4DC0A1245EFDB3",
+  "changelog": "修复启动失败：恢复稳定打包方案，将运行时解压目录固定到程序旁的_CameraCheckRuntime，避免%TEMP%/_MEI目录下Python DLL加载失败。",
+  "metadata_refreshed_at": "2026-06-25T14:45:00+08:00"
 }
