@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.20",
-  "sha256": "6A29960ABFAB0F34FF5A9B6A4D3593FBACFD3F572768BBAAF318E3A5DBC470CB",
-  "changelog": "Fix old updater download failure: CameraCheck.exe is padded above 1MB for legacy size validation; app remains native launcher + onedir package to avoid %TEMP%/_MEI Python DLL load failure.",
-  "metadata_refreshed_at": "2026-06-25T16:00:00+08:00"
+  "version": "1.0.21",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.21",
+  "sha256": "3E9CF63D5B7EDB04C4BA13354EF6C3FC54888D9594DF1B955A48C14975461328",
+  "changelog": "Fix BAYPASS diagnosis: XCD AVM FPS >29 is treated as auxiliary output evidence only, never as a no-fault conclusion; merge ADD and XCD log packages for case-level diagnosis.",
+  "metadata_refreshed_at": "2026-06-29T00:00:00+08:00"
 }
