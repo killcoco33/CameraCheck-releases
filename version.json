@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.21",
-  "sha256": "3E9CF63D5B7EDB04C4BA13354EF6C3FC54888D9594DF1B955A48C14975461328",
-  "changelog": "Fix BAYPASS diagnosis: XCD AVM FPS >29 is treated as auxiliary output evidence only, never as a no-fault conclusion; merge ADD and XCD log packages for case-level diagnosis.",
+  "version": "1.0.22",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.22",
+  "sha256": "D8EF7ACB0B2F0DDE3DA306BD066DD89A19C2104CFBA56DA41B452468E71C11E8",
+  "changelog": "Fix BAYPASS diagnosis and package launcher extraction: XCD AVM FPS >29 is auxiliary evidence only; flat app package avoids nested directory move failures.",
   "metadata_refreshed_at": "2026-06-29T00:00:00+08:00"
 }
