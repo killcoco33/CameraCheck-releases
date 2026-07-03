@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.25",
-  "sha256": "BC14CE54E885D1C44FC44664E32C5EAC01562EF4604B8124788E7572D7824EE6",
-  "changelog": "Fix update detection compatibility: check raw version.json before GitHub latest release so old release metadata cannot hide newer builds.",
+  "version": "1.0.26",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.26",
+  "sha256": "CA4163F7B042FDFF522E918D610B9CE1A8D8C17453938C94E38E84D4849E2E44",
+  "changelog": "Fix launcher app package installation when the existing CameraCheck_app directory is locked; fallback to a versioned app directory instead of failing startup.",
   "metadata_refreshed_at": "2026-07-03T00:00:00+08:00"
 }
