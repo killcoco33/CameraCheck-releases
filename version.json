@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.23",
-  "sha256": "7C598AFAF099566BAB65BD027570FCE4954851C5032EDC68215C7E09F6626109",
-  "changelog": "Fix BAYPASS diagnosis and launcher extraction/version marker: XCD AVM FPS >29 is auxiliary evidence only; app package extracts cleanly without _MEI or BOM version mismatch.",
-  "metadata_refreshed_at": "2026-06-29T00:00:00+08:00"
+  "version": "1.0.24",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.24",
+  "sha256": "F1047C447F591C10810AB400B50B575A60E61056B243CE1DBF82DD37B31F2058",
+  "changelog": "Fix multi-file UI diagnosis overwrite: selected ADD and bugreport packages are merged again before rendering, so later no-fault logs cannot hide BAYPASS faults.",
+  "metadata_refreshed_at": "2026-07-03T00:00:00+08:00"
 }
