@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.24",
-  "sha256": "F1047C447F591C10810AB400B50B575A60E61056B243CE1DBF82DD37B31F2058",
-  "changelog": "Fix multi-file UI diagnosis overwrite: selected ADD and bugreport packages are merged again before rendering, so later no-fault logs cannot hide BAYPASS faults.",
+  "version": "1.0.25",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.25",
+  "sha256": "BC14CE54E885D1C44FC44664E32C5EAC01562EF4604B8124788E7572D7824EE6",
+  "changelog": "Fix update detection compatibility: check raw version.json before GitHub latest release so old release metadata cannot hide newer builds.",
   "metadata_refreshed_at": "2026-07-03T00:00:00+08:00"
 }
