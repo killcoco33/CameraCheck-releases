@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.27",
-  "sha256": "ACE7F7A7F02631FD2FFE963D187D219C1F95BCDB2D1FDB08E1474C5686C5ED5B",
-  "changelog": "Fix binocular no-stream diagnosis: only cameras 0-2 can be classified as binocular no-stream; camera 5 remains camera self fault evidence and is no longer mislabeled.",
+  "version": "1.0.28",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.28",
+  "sha256": "4212B498B0441092B457425D1113D70300E2EAF7C3D62F6B93EF8784B1DDDBB5",
+  "changelog": "Fix named binocular no-stream diagnosis for mid_center_top_wide and mid_center_top_tele evidence; suppress duplicate low-level GMSL/Deser/Internal conclusions and restore GMSL fault times.",
   "metadata_refreshed_at": "2026-07-06T00:00:00+08:00"
 }
