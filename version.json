@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.28",
-  "sha256": "4212B498B0441092B457425D1113D70300E2EAF7C3D62F6B93EF8784B1DDDBB5",
-  "changelog": "Fix named binocular no-stream diagnosis for mid_center_top_wide and mid_center_top_tele evidence; suppress duplicate low-level GMSL/Deser/Internal conclusions and restore GMSL fault times.",
-  "metadata_refreshed_at": "2026-07-06T00:00:00+08:00"
+  "version": "1.0.29",
+  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.29",
+  "sha256": "9EC8C6B454EA6F0C7337E02C3FCA5B4E8A7651A7C522D129B4B63FDF3A343B48",
+  "changelog": "Fix fault camera IDs for FPS abnormal diagnoses: sensors with fps 1-28 are now included, not only fps 0.",
+  "metadata_refreshed_at": "2026-07-08T00:00:00+08:00"
 }
