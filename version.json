@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.31/CameraCheck.exe",
-  "sha256": "C1B7557C41B04AB50820FAC6EE8B170EAC9FF44447C9CF44391B90BE00CC0758",
-  "changelog": "Fix false binocular no-stream detection and make release downloads prefer GitHub Release assets with raw fallback/timeouts.",
+  "version": "1.0.32",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.32/CameraCheck.exe",
+  "sha256": "064854CCB9DC40718F89BF6B56BFAD3E946C655393D30948D981B68F0CE84C52",
+  "changelog": "Fix binocular no-stream camera numbering: only cameras 0, 2, and 3 are classified as binocular no-stream.",
   "metadata_refreshed_at": "2026-07-08T00:00:00+08:00"
 }
