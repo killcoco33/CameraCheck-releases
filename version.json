@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "download_url": "https://raw.githubusercontent.com/killcoco33/CameraCheck-releases/refs/heads/main/CameraCheck.exe?v=1.0.30",
-  "sha256": "60B1D907E0B1B4E2F4223113131E42A09C4A1EC24974137E28A3DBAE1FD514BA",
-  "changelog": "Fix false binocular no-stream detection: Frame timeout producer context alone no longer triggers binocular no-stream, and SOC1 logs are no longer duplicated as SOC2 evidence.",
+  "version": "1.0.31",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.31/CameraCheck.exe",
+  "sha256": "C1B7557C41B04AB50820FAC6EE8B170EAC9FF44447C9CF44391B90BE00CC0758",
+  "changelog": "Fix false binocular no-stream detection and make release downloads prefer GitHub Release assets with raw fallback/timeouts.",
   "metadata_refreshed_at": "2026-07-08T00:00:00+08:00"
 }
