@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.33/CameraCheck.exe",
-  "sha256": "001E9448C6BBCDE0B771471152743F180AF73B588000F01938B7C09E499B12FB",
-  "changelog": "Fix legacy launcher SHA mismatch: app packages are downloaded from immutable GitHub Release assets, and raw main app zip is kept as the v1.0.30 compatibility bridge.",
-  "metadata_refreshed_at": "2026-07-09T00:00:00+08:00"
+  "version": "1.0.34",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.34/CameraCheck.exe",
+  "sha256": "C43930826D919E9C6D2B60BBBF387434669C8BCE49D1A611AA8E15648E77E719",
+  "changelog": "baypass诊断补充座舱端CameraHelper/max96722源头确认注释，避免遗漏座舱侧信号源头复核。",
+  "metadata_refreshed_at": "2026-07-10T00:00:00+08:00"
 }
