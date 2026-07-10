@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.34/CameraCheck.exe",
-  "sha256": "C43930826D919E9C6D2B60BBBF387434669C8BCE49D1A611AA8E15648E77E719",
-  "changelog": "baypass诊断补充座舱端CameraHelper/max96722源头确认注释，避免遗漏座舱侧信号源头复核。",
+  "version": "1.0.35",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.35/CameraCheck.exe",
+  "sha256": "FD20366CD6CC4A0C6D884A9BE1B711E54ABF43D347D60A8B23226BD00188C923",
+  "changelog": "baypass诊断补充XCD未重启大前提提示，并说明ADD日志不包含XCD重启信息，需要核对XCD日志确认。",
   "metadata_refreshed_at": "2026-07-10T00:00:00+08:00"
 }
