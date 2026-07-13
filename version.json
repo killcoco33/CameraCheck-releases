@@ -1,7 +1,7 @@
 {
-  "version": "1.0.35",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.35/CameraCheck.exe",
-  "sha256": "FD20366CD6CC4A0C6D884A9BE1B711E54ABF43D347D60A8B23226BD00188C923",
-  "changelog": "baypass诊断补充XCD未重启大前提提示，并说明ADD日志不包含XCD重启信息，需要核对XCD日志确认。",
-  "metadata_refreshed_at": "2026-07-10T00:00:00+08:00"
+  "version": "1.0.36",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.36/CameraCheck.exe",
+  "sha256": "3724E5674751B12067DF951809F0400472F75595F5AA90D94FBA51534170C1E7",
+  "changelog": "baypass诊断按XCD日志状态三分支：无XCD日志待确认、XCD无重启可初步满足、XCD重启则判定前提不满足。",
+  "metadata_refreshed_at": "2026-07-13T00:00:00+08:00"
 }
