@@ -1,7 +1,7 @@
 {
-  "version": "1.0.37",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.37/CameraCheck.exe",
-  "sha256": "58824A1636A3FAC26B8B79980C70425C6299F52BC1CD26DAE0A28FCE1EAFE3F7",
-  "changelog": "优化baypass注意事项展示，收敛用户可见诊断文案。",
-  "metadata_refreshed_at": "2026-07-13T16:00:00+08:00"
+  "version": "1.0.38",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.38/CameraCheck.exe",
+  "sha256": "F365CD516AD7A0BB8965FAC1E96FB6C93D299A8F2E15F042F5022A897DEA8C0A",
+  "changelog": "优化baypass注意事项展示与醒目高亮。",
+  "metadata_refreshed_at": "2026-07-16T00:00:00+08:00"
 }
