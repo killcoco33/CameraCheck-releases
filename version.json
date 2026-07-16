@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.40/CameraCheck.exe",
-  "sha256": "3A16F0937165582D33C285367DF2B22762413A0013EC54CE0AA6F5578698CF81",
-  "changelog": "修正baypass的XCD重启窗口判断，并收敛用户可见细节。",
+  "version": "1.0.41",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.41/CameraCheck.exe",
+  "sha256": "36C8590A5610CE9831C3ABE75315506DED04362D4A04C230E23928F2C48B03DA",
+  "changelog": "baypass分段确认注意事项补充XCD重启时间。",
   "metadata_refreshed_at": "2026-07-16T00:00:00+08:00"
 }
