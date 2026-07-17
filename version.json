@@ -1,7 +1,7 @@
 {
-  "version": "1.0.41",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.41/CameraCheck.exe",
-  "sha256": "36C8590A5610CE9831C3ABE75315506DED04362D4A04C230E23928F2C48B03DA",
-  "changelog": "baypass分段确认注意事项补充XCD重启时间。",
-  "metadata_refreshed_at": "2026-07-16T00:00:00+08:00"
+  "version": "1.0.42",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.0.42/CameraCheck.exe",
+  "sha256": "6E436653960C7E16DF8F8737C66F0353D6AB5B587E111A290F8DE960181E7C59",
+  "changelog": "修复AB域不同流漏检：同秒一侧有流、另一侧无流即诊断，故障编号仅输出无流侧相机。",
+  "metadata_refreshed_at": "2026-07-17T00:00:00+08:00"
 }
