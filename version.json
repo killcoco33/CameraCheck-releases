@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.0/CameraCheck.exe",
-  "sha256": "EB1C9F624A593DAAF0A349986F1AA99E5310705F26AAA2732794BAD10675E5EA",
-  "changelog": "收紧baypass的XCD重启前置条件并固定关联12-15号相机；Frame timeout仅在无其他相机故障时单独展示。",
-  "metadata_refreshed_at": "2026-07-23T10:15:00+08:00"
+  "version": "1.1.1",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.1/CameraCheck.exe",
+  "sha256": "316B8A553C151570D883D3BF697BB22A8A2E935A001088D4A6ADD22E4DA3778A",
+  "changelog": "修正baypass判定的时间匹配：XCD日志时间未覆盖baypass故障时间时返回待确认；补充XCD重启窗口识别。",
+  "metadata_refreshed_at": "2026-07-23T12:00:00+08:00"
 }
