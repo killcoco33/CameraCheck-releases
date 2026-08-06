@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.1/CameraCheck.exe",
-  "sha256": "316B8A553C151570D883D3BF697BB22A8A2E935A001088D4A6ADD22E4DA3778A",
-  "changelog": "修正baypass判定的时间匹配：XCD日志时间未覆盖baypass故障时间时返回待确认；补充XCD重启窗口识别。",
-  "metadata_refreshed_at": "2026-07-23T12:00:00+08:00"
+  "version": "1.1.2",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.2/CameraCheck.exe",
+  "sha256": "7F1FE4042609C6971F2FE97BA060EB79D012DE14CAE66C405BCEA343B27EF7E3",
+  "changelog": "修正双目无流处理措施：参考“26年7月双目无流维修方案变更”进行处理；保留baypass的XCD日志时间匹配与重启窗口判断。",
+  "metadata_refreshed_at": "2026-08-06T12:00:00+08:00"
 }
