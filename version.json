@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.2/CameraCheck.exe",
-  "sha256": "7F1FE4042609C6971F2FE97BA060EB79D012DE14CAE66C405BCEA343B27EF7E3",
-  "changelog": "修正双目无流处理措施：参考“26年7月双目无流维修方案变更”进行处理；保留baypass的XCD日志时间匹配与重启窗口判断。",
-  "metadata_refreshed_at": "2026-08-06T12:00:00+08:00"
+  "version": "1.1.3",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.3/CameraCheck.exe",
+  "sha256": "9493696AFB39B3A73CA4565607F98A52AA1771EAF29461C5D6E7343B44276BA2",
+  "changelog": "修正新电脑单文件EXE的Python DLL加载风险：改用原生启动器下载并运行目录版应用；保留双目无流处理措施和baypass判断修正。",
+  "metadata_refreshed_at": "2026-08-06T13:00:00+08:00"
 }
