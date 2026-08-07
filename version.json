@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.4/CameraCheck.exe",
-  "sha256": "67E33C621A2D1083149B3A2EC4B91F5F529B48D43AE36D5DD255AC610072BFD6",
-  "changelog": "修正新电脑单文件EXE的Python DLL加载风险：改用原生启动器下载并运行目录版应用；修正启动器只结束自身目录下的旧进程；保留双目无流和baypass修正。",
-  "metadata_refreshed_at": "2026-08-06T14:00:00+08:00"
+  "version": "1.1.5",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.5/CameraCheck.exe",
+  "sha256": "93A839A612C18EACE1F863E7F71839FF5B0786484D85B5BDFAA602499A07A69A",
+  "changelog": "改善首次更新等待体验：启动器限制单实例、显示下载进度、优先使用raw下载源；继续使用原生启动器和目录版应用避免Python DLL加载问题。",
+  "metadata_refreshed_at": "2026-08-07T16:00:00+08:00"
 }
