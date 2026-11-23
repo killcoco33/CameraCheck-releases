@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.7/CameraCheck.exe",
-  "sha256": "84DD6F8ED313785AD4F8AE133BAC3B38D9F87AE86503C90B213E3E24866E49BB",
-  "changelog": "完善MIPI RX诊断：环视FPS异常时覆盖33e/33c/343/344/1f寄存器证据并保留帧超时或ICP约束；ACP故障关联窗口扩大到15秒，并覆盖camera INFO日志。",
-  "metadata_refreshed_at": "2026-11-23T14:08:00+08:00"
+  "version": "1.1.8",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.8/CameraCheck.exe",
+  "sha256": "F55D6EE86A324EDF378623E0A884FA838D881A88AA3F85B444CCBDE95BF70E62",
+  "changelog": "修复v1.1.7更新启动报错：移除不应随包分发的UCRT/ICU运行库，使用系统兼容运行库重新打包；保留MIPI RX与ACP诊断修正。",
+  "metadata_refreshed_at": "2026-11-23T14:55:00+08:00"
 }
