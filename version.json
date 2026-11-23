@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.6/CameraCheck.exe",
-  "sha256": "D5015A8E529015698DBA34C24C1F5404470ED69344F5845A0A8F02301233D7B4",
-  "changelog": "修正首次更新等待体验：启动器限制单实例、显示下载进度；GitHub Release下载源优先、raw源仅作备用；继续使用原生启动器和目录版应用避免Python DLL问题。",
-  "metadata_refreshed_at": "2026-08-07T16:15:00+08:00"
+  "version": "1.1.7",
+  "download_url": "https://github.com/killcoco33/CameraCheck-releases/releases/download/v1.1.7/CameraCheck.exe",
+  "sha256": "84DD6F8ED313785AD4F8AE133BAC3B38D9F87AE86503C90B213E3E24866E49BB",
+  "changelog": "完善MIPI RX诊断：环视FPS异常时覆盖33e/33c/343/344/1f寄存器证据并保留帧超时或ICP约束；ACP故障关联窗口扩大到15秒，并覆盖camera INFO日志。",
+  "metadata_refreshed_at": "2026-11-23T14:08:00+08:00"
 }
